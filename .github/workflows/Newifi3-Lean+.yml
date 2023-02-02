@@ -25,7 +25,7 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: master
+  REPO_BRANCH: 20221001
   DIY_SH: OpenWrt-Lean+.sh
   SSH_ACTIONS: false        # SSH 连接 Actions 功能
   UPLOAD_BIN_DIR: true      # 上传 bin 目录。即包含所有 ipk 文件和固件的目录
